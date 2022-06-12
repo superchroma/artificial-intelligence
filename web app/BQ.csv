@@ -1,0 +1,652 @@
+"""Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."""
+"""Out beyond ideas of wrongdoing and rightdoing there is a field. I'll meet you there.”"
+"""Where there is ruin, there is hope for a treasure."""
+"“When the soul lies down in that grass the world is too full to talk about."""
+"""If you are irritated by every rub, how will your mirror be polished?"""
+"""The minute I heard my first love story, I started looking for you, not knowing how blind that was.”"
+" “Lovers don't finally meet somewhere. They're in each other all along."""
+"""You were born with wings, why prefer to crawl through life?"""
+"""What you seek is seeking you."""
+"""Ignore those that make you fearful and sad, that degrade you back towards disease and death."""
+" ""When I am with you, we stay up all night. When you're not here, I can't go to sleep. Praise God for those two insomnias! And the difference between them."""
+"""When you do things from your soul, you feel a river moving in you, a joy."""
+"""Dance, when you're broken open. Dance, if you've torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you're perfectly free."""
+"""Don’t grieve. Anything you lose comes round in another form."""
+"""The wound is the place where the Light enters you."""
+"""Knock, And He'll open the door. Vanish, And He'll make you shine like the sun Fall, And He'll raise you to the heavens Become nothing, And He'll turn you into everything."""
+"""In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art."""
+"""My soul is from elsewhere, I'm sure of that, and I intend to end up there."""
+"""Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground."""
+"""Forget safety. Live where you fear to live. Destroy your reputation. Be notorious."""
+"""Lovers don't finally meet somewhere. They're in each other all along."""
+"""There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you?"""
+"""This is love: to fly toward a secret sky, to cause a hundred veils to fall each moment. First to let go of life. Finally, to take a step without feet."""
+" ""A thousand half-loves must be forsaken to take one whole heart home."" "
+"""I want to see you. Know your voice. Recognize you when you first come 'round the corner. Sense your scent when I come into a room you've just left. Know the lift of your heel, the glide of your foot. Become familiar with the way you purse your lips, then let them part,  just the slightest bit, when I lean in to your space and kiss you. I want to know the joy of how you whisper ""more""."""
+"""I want to sing like the birds sing, not worrying about who hears or what they think."""
+" ""Sell your cleverness and buy bewilderment."""
+"""Silence is the language of god, all else is poor translation."""
+"""That which God said to the rose, and caused it to laugh in full-blown beauty, He said to my heart, and made it a hundred times more beautiful."""
+"""We come spinning out of nothingness, scattering stars like dust."""
+" ""People want you to be happy. Don't keep serving them your pain! If you could untie your wings and free your soul of jealousy, you and everyone around you would fly up like doves."""
+"""Be grateful for whoever comes, because each has been sent as a guide from beyond."" ""Let yourself be drawn by the stronger pull of that which you truly love."""
+"""Sit, be still, and listen, because you're drunk and we're at the edge of the roof."""
+"""Be empty of worrying. Think of who created thought! Why do you stay in prison When the door is so wide open?"""
+"""Be like the sun for grace and mercy. Be like the night to cover others' faults. Be like running water for generosity. Be like death for rage and anger. Be like the Earth for modesty. Appear as you are. Be as you appear."""
+"""Words are a pretext. It is the inner bond that draws one person to another, not words."" ""Everything in the universe is within you. Ask all from yourself."""
+"""Either give me more wine or leave me alone."""
+"""Reason is powerless in the expression of Love."""
+"""An eye is meant to see things. The soul is here for its own joy. A head has one use: For loving a true love. Feet: To chase after. Love is for vanishing into the sky. The mind,  for learning what men have done and tried to do. Mysteries are not to be solved: The eye goes blind when it only wants to see why. A lover is always accused of something. But when he finds his love, whatever was lost in the looking comes back completely changed."""
+" ""But listen to me. For one moment quit being sad. Hear blessings dropping their blossoms around you."""
+"""If ten people want to enter a house, and only nine who meet the entrance, the tenth did not have to say, It was destiny Lord. He must find where the deficiency. """
+"""Lying in the dust at your feet my heart - tangled  in the curls of your hair. Enough so much! Lips close and let your kiss my soul free. """
+"""Deaf to the voice of desire You do not know Living Favorites In your heart. Stop the noise And hear in the silence His voice. """
+"""Corruption has a secret name, that greatness is not even heard. Death is laughing that even the angels do not know. Bloody fingers time embroidered tapestry of eternal mercy. You can find their order? Mad with love! """
+" ""The ultimate helplessness Love quite like death - out of control, agony of birth. """
+"""As many as you like it will be a thing does not happen or more is better for or it is not really to be in lack of air circulating inside."""
+" ""There are no words between us now. Although it seems I speak, It is only Your love overflowing from my cup."""
+"""There is no end to the trip Not the end, never end ... How the heart of beloved Ever stop to open? ""If you love me"" - he said - ""There is only one to die.  At every moment Will die in the internal To be born again. """
+"""It is better to leave fades away every day back like water flowing, free from sorrow. Yesterday is gone and his story - sung. Today new seeds grow. """
+"""Forget safety. Live where you fear to live."""
+"""Everyone is so afraid of death, but the real sufis just laugh: nothing tyrannizes their hearts. What strikes the oyster shell does not damage the pearl"""
+" ""If you desire healing, let yourself fall ill."""
+"""Hardship may dishearten at first, but every hardship passes away. All despair is followed by hope; all darkness is followed by sunshine."""
+"""Break your pitcher against a rock. We don't need any longer to haul pieces of the ocean around."" ""Be a lamp, or a lifeboat, or a ladder. Help someone's soul heal. Walk out of your house like a shepherd."" ""Each has to enter the nest made by the other imperfect bird."""
+"""Out beyond ideas of wrongdoing and rightdoing, there is a field. I will meet you there."""
+" ""At the end of my life, with just one breath left, if you come, I’ll sit up and sing."""
+"""Don’t wait any longer. Dive in the ocean, Leave and let the sea be you."""
+"""There are no edges to my loving now."""
+"""The middle path is the way to wisdom"" ""Judge the moth by the beauty of the candle."""
+"""Lovers do not finally meet somewhere, they are in each other all along."""
+"""The minute I heard my first love story I started looking for you, not knowing how blind that was. Lovers don't finally meet somewhere. They're in each other all along."""
+"""This is how I would die into the love I have for you: As pieces of cloud dissolve in sunlight."""
+"""I want your sun to reach my raindrops, so your heat can raise my soul upward like a cloud."""
+" ""Shine like the whole universe is yours."""
+"""When you lose all sense of self the bonds of a thousands chains will vanish. Lose yourself completely, return to the root of the root of your own soul."""
+"""Out beyond ideas of wrongdoing and rightdoing, there is a field. I will meet you there."""
+"""There is a loneliness more precious than life. There is a freedom more precious than the world. Infinitely more precious than life and the world is that moment when one is alone with God."""
+" ""The Ego is a veil between humans and God’.”"
+"“In prayer all are equal."""
+"""It is certain that an atom of goodness on the path of faith is never lost."""
+"""Every war and every conflict between human beings has happened because of some disagreement about names. It is such an unnecessary foolishness, because just beyond the arguing there is a long table of companionship set and waiting for us to sit down. What is praised is one, so the praise is one too, many jugs being poured into a huge basin. All religions, all this singing one song. The differences are just illusion and vanity. Sunlight looks a little different on this wall than it does on that wall and a lot different on this other one, but it is still one light. We have borrowed these clothes, these time-and-space personalities, from a light, and when we praise, we are pouring them back in."""
+" ""Your depression is connected to your insolence and refusal to praise. Whoever feels himself walking on the path, and refuses to praise--that man or woman steals from others every day--is a shoplifter! The sun became full of light when it got hold of itself. Angels only began shining when they achieved discipline. The sun goes out whenever the cloud of not-praising comes. The moment the foolish angel felt insolent, he heard the door close."""
+"""Oh you, unceasing sun, to me Your particles communicate The luminous essence of God, Are you our God? I do not know. Intoxicated, I say nought, Bewitched by the magic potion. I cannot differentiate Between my drunk and sober state."""
+"""This being human is a guest house. Every morning a new arrival. A joy, a depression, a meanness, some momentary awareness comes as an unexpected visitor. Welcome and entertain them all! Even if they're a crowd of sorrows, who violently sweep your house Empty of its furniture, Still, treat each guest honorably. He may be clearing you out for some new delight."""
+"""Oh my friend, all that you see of me is a shell, the rest belongs to love."""
+"""Between the idea of wrongdoing and rightdoing there is a place...I will meet you there."""
+"""Is your face a beautiful blossom or a sweet torture? I have no complaints but my heart is tempted to let you hear of its sorrows."""
+" ""Oh you, straying heart, just come! Oh you, aching liver, just come! If the path to the gate is closed, Take the way by the wall, but come!"""
+"""Oh sky, without me, do not change, Oh moon, without me, do not shine; Oh earth, without me, do not grow, Oh time, without me, do not go. Others give you the name of Love, And me the sultan of that love. Higher than such illusions, Oh, you cannot go, without me."""
+" ""When one sense perceives the hidden, the invisible world becomes apparent to the whole."""
+"""When the rose is gone and the garden faded you will no longer hear the nightingale's song. The Beloved is all; the lover just a veil. The Beloved is living; the lover a dead thing. If love withholds its strengthening care, the lover is left like a bird without care, the lover is left like a bird without wings. How will I be awake and aware if the light of the Beloved is absent? Love wills that this Word be brought forth."""
+"""Be a helpful friend, and you will become a green tree with always new fruit, always deeper journeys into love."""
+"""Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love"" ""Love is a river. Drink from it."""
+"""Shams, my body is a candle touched with fire."""
+"""The wave of Atlast came along and caulked the body's ship; when the ship is wrecked once more, the turn of union and encounter will come."""
+"""Your body is woven from the light of heaven. Are you aware that its purity and swiftness is the envy of angels and its courage keeps even devils away."""
+"""Travelers, it is late. During these brief days that you have strength, be quick and spare no effort of your wings."""
+"""Suddenly the drunken sweetheart appeared out of my door. She drank a cup of ruby wine and sat by my side. Seeing and holding the lockets of her hair. My face became all eyes, and my eyes all hands."""
+"""People want you to be happy, don't keep serving them your pain"""
+"""Be certain that in the religion of Love there are no believers and unbelievers. LOVE embraces all."""
+"""Everything in the universe is a pitcher brimming with wisdom and beauty."""
+"""I cannot sleep in your presence In your absence, tears prevent me you watch me my beloved on each sleepiness night and Only you see the difference"""
+"""Go back, go back to sleep. Yes, you are allowed. You who have no Love in your heart, you can go back to sleep. The power of Love is exclusive to us, you can go back to sleep. I have been burnt by the fire of Love. You who have no such yearning in your heart, go back to sleep. The path of Love, has seventy-two folds and countless facets. Your love and religion is all about deceit, control and hypocrisy,  go back to sleep. I have torn to pieces my robe of speech, and have let go of the desire to converse. You who are not naked yet, you can go back to sleep."""
+"""Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend."""
+"""On the path of Love we are neither masters nor the owners of our lives. We are only a brush in the hand of the Master Painter."""
+" ""The only lasting beauty is the beauty of the heart."""
+"""If you are irritated by every rub, how will you be polished?"""
+" ""My dear soul, flee from the worthless, stay close only to those with a pure heart. Like attracts like. A crow will lead you to the graveyard,
+a parrot to a lump of sugar."""
+"""I am filled with you. Skin, blood, bone, brain, and soul. There's no room for lack of trust, or trust. Nothing in this existence but that existence."""
+" ""Come, come, whoever you are, wanderer, worshiper, lover of leaving,
+it doesn't matter.
+Ours is not a caravan of despair.
+Come, even if you have broken your vow a hundred times. Come, come again, come."""
+"""Be helpless, dumbfounded, Unable to say yes or no. Then a stretcher will come from grace to gather us up.
+We are too dull-eyed to see that beauty. If we say we can, we’re lying.
+If we say No, we don’t see it,
+ That No will behead us
+And shut tight our window onto spirit.
+So let us rather not be sure of anything, Beside ourselves, and only that, so Miraculous beings come running to help. Crazed, lying in a zero circle, mute,
+We shall be saying finally,
+With tremendous eloquence, Lead us. When we have totally surrendered to that beauty, We shall be a mighty kindness."""
+"""I said, O Love, tell me this:
+Does the Lord know you are treating me this way? Love said to me,
+yes He does,
+just be totally... totally... silent."""
+"""My heart rushes into the garden, joyfully tasting all the delights. But reason frowns, disapproving of the heart's bad manners."""
+"""Angels dance only with You, Beloved and only before You do I bow in adoration.
+You may accept me or not
+but I will be at your feet forever."""
+"""In your light I learn how to love."" ""Let the beauty we love be what we do.""  ""...the way you make love is the way God will be with you."""
+"""The breezes at dawn have secrets to tell you. Don't go back to sleep."""
+"""I'm in love! Your advice, what are they?
+Love has poisoned me!
+Your remedies, what are they?
+I hear them shout: ""fast, Bind him feet!"" But if my heart that has gone mad! Those strings on my feet
+What is the point?"""
+"""You are the Essence of the Essence,  The intoxication of Love.
+I long to sing Your Praises
+but stand mute
+with the agony of wishing in my heart !"""
+"""Very little grows on jagged rock. Be ground. Be crumbled, so wildflowers will come up where you are."" ""There are thousands of wines that can take over our minds. Don't think all ecstasies are the same!"""
+"“Be quiet now and wait. It may be that the ocean one,
+the one we desire so to move into and become, desires us out here on land a little longer, going our sundry ways to the shore.”"
+"""There came one and knocked at the door of the Beloved. And a voice answered and said, 'Who is there?'
+The lover replied, 'It is I.'
+'Go hence,' returned the voice;
+'there is no room within for thee and me.'
+Then came the lover a second time and knocked and again the voice demanded, 'Who is there?'
+He answered, 'It is thou.'
+'Enter,' said the voice, 'for I am within.""
+ ""The result of my life is no more than three words: I was raw, I became cooked, I was burnt."""
+“Two there are who are never satisfied -- the lover of the world and the lover of knowledge.”
+"“Come, come, whoever you are. Wanderer, worshiper, lover of leaving. It doesn't matter. Ours is not a caravan of despair. come, even if you have broken your vows a thousand times. Come, yet again , come , come.”"
+"“Start a huge, foolish project, like Noah...it makes absolutely no difference what people think of you.”"
+" ""To Love is to be God. Never will a Lover's chest feel any sorrow. Never will a Lover's robe be touched by mortals. Never will a Lover's body be found buried in the earth. To Love is to be God."""
+“Who could be so lucky? Who comes to a lake for water and sees the reflection of moon.” “A mountain keeps an echo deep inside. That's how I hold your voice.”
+"“I have lived on the lip  of insanity, wanting to know reasons, knocking on a door. It opens. I've been knocking from the inside.”"
+“Beauty surrounds us.”
+"“You try to be faithful And sometimes you're cruel. You are mine. Then, you leave. Without you, I can't cope. And when you take the lead, I become your footstep. Your absence leaves a void. Without you, I can't cope. You have disturbed my sleep, You have wrecked my image. You have set me apart. Without you, I can't cope.”"
+"“I didn't come here of my own accord, and I can't leave that way. Whoever brought me here will have to take me home.”"
+"“This being human is a guest house. Every morning is a new arrival. A joy, a depression, a meanness, some momentary awareness comes as an unexpected visitor...Welcome and entertain them all. Treat each  guest honorably. The dark thought, the shame, the malice, meet them at the door laughing, and invite them in. Be grateful for whoever comes, because each has been sent as a guide from beyond.”"
+“Travel brings power and love back into your life.”
+“Be like melting snow -- wash yourself of yourself.”
+“You wander from room to room Hunting for the diamond necklace That is already around your neck!”
+"“Take someone who doesn't keep score, who's not looking to be richer, or afraid of losing, who has not the slightest interest even in his own personality: he's free.”"
+"“I know you're tired but come, this is the way.”"
+"“Inside you there’s an artist you don’t know about... say yes quickly, if you know, if you’ve known it from before the beginning of the universe.”"
+“Suffering is a gift. In it is hidden mercy.”
+“In Silence there is eloquence. Stop weaving and see how the pattern improves.”
+"“The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep!
+People are going back and forth
+across the doorsill where the two worlds touch, The door is round and open
+Don't go back to sleep!”"
+“Remember. The way you make love is the way God will be with you.”
+“Do not be satisfied with the stories that come before you. Unfold your own myth.”
+"“And still, after all this time, the Sun has never said to the Earth, ""You owe me."" Look what happens with love like that.
+It lights up the sky.”"
+"“On a day when the wind is perfect,
+the sail just needs to open and the world is full of beauty. Today is such a day.”"
+"“All people on the planet are children, except for a very few. No one is grown up except those free of desire.”"
+"“Within tears, find hidden laughter Seek treasures amid ruins, sincere one. ”"
+"“They say there is a doorway from heart to heart, but what is the use of a door when there are no walls?” “Is it really so that the one I love is everywhere?”"
+“Only from the heart can you touch the sky.”
+" “Birds make great sky-circles of their freedom. How do they learn it? They fall and falling,
+they're given wings.”"
+"“At night, I open the window and ask the moon to come and press its face against mine. Breathe into me. Close the language-door and open the love-window. The moon won't use the door, only the window.”"
+"“Here is a relationship booster that is guaranteed to work:
+Every time your spouse or lover says something stupid make your eyes light up as if you
+just heard something
+brilliant.”"
+"“You are a volume in the divine book. A mirror to the power that created the universe Whatever you want, ask it of yourself Whatever you’re looking for can only be found Inside of you.”"
+“Give up to grace. The ocean takes care of each wave 'til it gets to shore. You need more help than you know.”
+“My lips got lost on the way to the kiss - that's how drunk I was.”
+"“Let the lover be disgraceful, crazy, absentminded. Someone sober will worry about things going badly. Let the lover be. ”"
+"“When someone is counting out gold for you, don't look at your hands, or the gold. Look at the giver.”"
+"“Love comes with a knife, not some shy question, and not with fears for its reputation!”"
+"“Like a sculptor, if necessary, carve a friend out of stone. Realize that your inner sight is blind and try to see a treasure in everyone.”"
+"“Pain is a treasure, for it contains mercies...”"
+“The moon stays bright when it doesn't avoid the night....”
+"“Christian, Jew, Muslim, shaman, Zoroastrian, stone, ground, mountain, river, each has a secret way of  being with the mystery, unique and not to be judged.”"
+"“Not only the thirsty seek the water, the water as well seeks the thirsty.”"
+“Learn the alchemy true human beings know. The moment you accept what troubles you've been given the door with open.”
+“The ground's generosity takes in our compost and grows beauty! Try to be more like the ground.” “The breeze at dawn has secrets to tell you. Don't go back to sleep.”
+"“Your hand opens and closes, opens and closes. If it were always a fist or always stretched open, you would be paralysed. Your deepest presence is in every small contracting and expanding, the two as beautifully balanced and coordinated as birds' wings.”"
+“There is a secret medicine given only to those who hurt so hard they can't hope. The hopers would feel slighted if they knew.”
+"“Like This 
+If anyone asks you how the perfect satisfaction of all our sexual wanting will look, lift your face
+ and say, Like this.
+When someone mentions the gracefulness of the nightsky, climb up on the roof
+and dance and say, Like this.
+If anyone wants to know what ""spirit"" is, or what ""God’s fragrance"" means,
+lean your head toward him or her. Keep your face there close. Like this. When someone quotes the old poetic image about clouds gradually uncovering the moon, slowly loosen knot by knot the strings
+of your robe. Like this.
+ If anyone wonders how Jesus raised the dead, don’t try to explain the miracle.
+Kiss me on the lips. Like this. Like this. When someone asks what it means
+to ""die for love,"" point
+here.
+If someone asks how tall I am, frown
+and measure with your fingers the space between the creases on your forehead.
+This tall.
+The soul sometimes leaves the body, the returns. When someone doesn’t believe that,
+walk back into my house. Like this.
+When lovers moan,
+ they’re telling our story. Like this.
+I am a sky where spirits live. Stare into this deepening blue, while the breeze says a secret. Like this. When someone asks what there is to do, light the candle in his hand. Like this. How did Joseph’s scent come to Jacob? Huuuuu.
+How did Jacob’s sight return? Huuuu.
+A little wind cleans the eyes. Like this. When Shams comes back from Tabriz, he’ll put just his head around the edge of the door to surprise us
+Like this.”"
+“The lion is most handsome when looking for food.”
+"“If in thirst you drink water from a cup, you see God in it. Those who are not in love with God will see only their own faces in it.”"
+“The universe and the light of the stars come through me.”
+"“You are the Truth from foot to brow. Now, what else would you like to know?”"
+"“Drum sound rises on the air, its throb, my heart. 
+A voice inside the beat says, ""I know you're tired, but come. This is the way.”"
+"“I, you, he, she, we
+In the garden of mystic lovers, these are not true distinctions.”"
+"“When someone beats a rug, the blows are not against the rug, but against the dust in it.”"
+“Give your weakness to one who helps.”
+"“A Thirsty Fish
+I don't get tired of you. Don't grow weary of being compassionate toward me! All this thirst equipment
+must surely be tired of me,
+the waterjar, the water carrier.
+I have a thirsty fish in me
+that can never find enough
+of what it's thirsty for!
+Show me the way to the ocean! Break these half-measures,
+these small containers.
+ All this fantasy
+and grief.
+Let my house be drowned in the wave that rose last night in the courtyard hidden in the center of my chest. Joseph fell like the moon into my well. The harvest I expected was washed away. But no matter.
+A fire has risen above my tombstone hat.
+I don't want learning, or dignity,
+or respectability.
+I want this music and this dawn
+and the warmth of your cheek against mine. The grief-armies assemble,
+but I'm not going with them.
+This is how it always is
+when I finish a poem.
+A great silence comes over me,
+and I wonder why I ever thought
+to use language.”"
+"“The morning wind spreads its fresh smell. We must get up and take that in, that wind that lets us live. Breathe before it's gone.”"
+"“Wherever you are, and whatever you do, be in love.”"
+"“Raise your words, not voice. It is rain that grows flowers, not thunder.” “This poetry. I never know what I'm going to say.”"
+"“Oh sky, without me, do not change, Oh moon, without me, do not shine; Oh earth, without me, do not grow, Oh time, without me, do not go. ...Oh, you cannot go, without me.”"
+"“If the foot of the trees were not tied to earth, they would be pursuing me.. For I have blossomed so much, I am the envy of the gardens.”"
+“You are a lover of your own experience ... not of me ... you turn to me to feel ur own emotion.”
+"“Today, like every other day, we wake up empty
+and frightened. Don't open the door to the study
+and begin reading. Take down the dulcimer.
+Let the beauty we love be what we do.
+There are hundreds of ways to kneel and kiss the ground.”"
+"“Love so needs to love
+that it will endure almost anything, even abuse, just to flicker for a moment. But the sky's mouth is kind,
+its song will never hurt you, for I sing those words.”"
+"“The way of love is not
+a subtle argument.
+The door there
+is devastation.
+Birds make great sky-circles of their freedom.
+How do they learn it? They fall, and falling, they're given wings.”"
+“Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.”
+"“In the slaughterhouse of love, they kill only the best, none of the weak or deformed. Don't run away from this dying. Whoever's not killed for love is dead meat.”"
+"“I was dead, then alive. Weeping, then laughing.
+The power of love came into me, and I became fierce like a lion, then tender like the evening star.”"
+"“Don't try to steer the boat.
+Don't open shop for yourself. Listen. Keep silent. You are not God's mouthpiece. Try to be an ear, And if you do speak, ask for explanations.”"
+“There are lovers content with longing. I’m not one of them.”
+"“When you feel a peaceful joy, that's when you are near truth.”"
+" “For without you, I swear, the town Has become like a prison to me. Distraction and the mountain And the desert, all I desire.”"
+"“If the wine drinker
+has a deep gentleness in him,
+he will show that when drunk.
+But if he has hidden anger and arrogance, those appear.”"
+"“Since Love has made ruins of my heart
+The sun must come and illumine them. Such generosity has broken me with shame.”"
+" “Oh soul,
+you worry too much.
+You have seen your own strength. You have seen your own beauty. You have seen your golden wings. Of anything less,
+why do you worry?
+You are in truth
+the soul, of the soul, of the soul.”"
+“Poems are rough notations for the music we are.”
+“And you? When will you begin that long journey into yourself?”
+"“Love calls - everywhere and always. We're sky bound. 
+Are you coming?”"
+"“You think because you understand 'one' you must also understand 'two', because one and one make two. But you must also understand 'and'.”"
+"“Have you ever gotten breathless before from a beautiful face, for i see you there,  my dear.”"
+"“Love is the cure,
+for your pain will keep giving birth to more pain
+until your eyes constantly exhale love as effortlessly as your body yields its scent.”"
+"“Put your thoughts to sleep, do not let them cast a shadow over the moon of your heart. Let go of thinking.”"
+" “I am weary of personal worrying, in love with the art of madness.”"
+“You are so weak. Give up to grace. The ocean takes care of each wave till it gets to shore. You need more help than you know.”
+“Keep on knocking 'til the joy inside opens a window look to see who's there”
+"“No more words. In the name of this place we drink in with our breathing, stay quiet like a flower. So the nightbirds will start singing.”"
+" “Do not leave me,
+hide in my heart like a secret, wind around my head like a turban. ""I come and go as I please,""
+you say, ""swift as a heartbeat."" You can tease me as much as you like but never leave me.”"
+"“Although you see the pit, you cannot avoid it.”"
+"“You and I have spoken all these words, but for the way we have to go,words are no preparation. I have one small drop of knowing in my soul. Let it dissolve in your ocean.”"
+"“Pull the thorn of existence out of the heart! Fast! For when you do, you will see thousands of rose gardens in yourself.”"
+"“You have forgotten the One who doesn't care about ownership, who doesn't try to turn a profit from every human exchange.”"
+"“Some nights stay up till dawn,
+as the moon sometimes does for the sun.
+Be a full bucket pulled up the dark way of a well, then lifted out into light.”"
+"“If in the darkness of ignorance, you don’t recognize a person’s true nature, look to see whom he has chosen for his leader.”"
+"“Nothing can help me but that beauty. There was a dawn I remember
+when my soul heard something from your soul. I drank water from your spring
+and felt the current take me.”"
+ “That moon which the sky never saw even in dreams has risen again.”
+"“God picks up the reed-flute world and blows. Each note is a need coming through one of us, a passion, a longing pain. 
+Remember the lips where the wind-breath originated,
+and let your note be clear.
+Don't try to end it.
+Be your note.”"
+“The cure for pain is in the pain.”
+" “Study me as much as you like, you will not know me, for I differ in a hundred ways from what you see me to be. Put yourself behind my eyes and see me as I see myself, for I have chosen to dwell in a place you cannot see.”"
+"“God turns you from one feeling to another and teaches by means of opposites so that you will have two wings to fly, not one.”"
+"“To live without you
+is to be robbed of love and what is life without it? To live without you
+is death to me, my love but some call it life.”"
+"“All day I think about it, then at night I say it.
+Where did I come from, and what am I supposed to be doing? I have no idea.
+My soul is from elsewhere, I'm sure of that,
+And I intend to end up there.
+This drunkenness began in some other tavern.
+When I get back around to that place,
+I'll be completely sober. Meanwhile,
+I'm like a bird from another continent, sitting in this aviary.
+ The day is coming when I fly off,
+But who is it now in my ear who hears my voice?
+Who says words with my mouth?
+Who looks out with my eyes? What is the soul?
+I cannot stop asking.
+If I could taste one sip of an answer,
+I could break out of this prison for drunks.
+I didn't come here of my own accord, and I can't leave that way. Whoever brought me here will have to take me home.
+This poetry. I never know what I'm going to say.
+I don't plan it.
+When I'm outside the saying of it, I get very quiet and rarely speak at all.
+ We have a huge barrel of wine, but no cups. That's fine with us. Every morning
+We glow and in the evening we glow again.”"
+“A strange passion is moving in my head My heart has become a bird which searches in the sky. Every part of me goes in different directions. Is it really so that the one I love is Everywhere?”
+"“When you go through a hard period,
+When everything seems to oppose you,
+... When you feel you cannot even bear one more minute, NEVER GIVE UP!
+Because it is the time and place that the course will divert!”"
+" “The truth was a mirror in the hands of God. It fell, and broke into pieces. Everybody took a piece of it, and they looked at it and thought they had the truth.”"
+“You must ask for what you really want. / Don't go back to sleep. / The door is round and open. / Don't go back to sleep.”
+“The rose's rarest essence lives in the thorns.”
+"“My friend, you thought you lost Him;
+that all your life you've been separated from Him. Filled with wonder, you've always looked outside for Him, and haven't searched within your own house.”"
+“Keep your intelligence white hot and your grief glistening“ so your life will stay fresh.”
+"“Into this new love, die your way begins
+on the other side become the sky
+take an axe to the prison wall, escape
+walk out like someone suddenly born into color
+ do it now.”"
+"“The world's flattery and hypocrisy is a sweet morsel: eat less of it, for it is full of fire.
+Its fire is hidden while its taste is manifest,
+but its smoke becomes visible in the end. ”"
+"“What can I do, Muslims? I do not know myself.
+I am neither Christian nor Jew, neither Magian nor Muslim,
+I am not from east or west, not from land or sea,
+not from the shafts of nature nor from the spheres of the firmament, not of the earth, not of water, not of air, not of fire.
+ I am not from the highest heaven, not from this world,
+not from existence, not from being.
+I am not from India, not from China, not from Bulgar, not from Saqsin, not from the realm of the two Iraqs, not from the land of Khurasan.
+I am not from the world, not from beyond,
+not from heaven and not from hell.
+I am not from Adam, not from Eve, not from paradise and not from Ridwan. My place is placeless, my trace is traceless,
+no body, no soul, I am from the soul of souls.
+I have chased out duality, lived the two worlds as one.
+One I seek, one I know, one I see, one I call.
+He is the first, he is the last, he is the outer, he is the inner.
+Beyond He and He is I know no other.
+I am drunk from the cup of love, the two worlds have escaped me.
+I have no concern but carouse and rapture.
+ If one day in my life I spend a moment without you from that hour and that time I would repent my life.
+If one day I am given a moment in solitude with you
+I will trample the two worlds underfoot and dance forever. O Sun of Tabriz, I am so tipsy here in this world,
+I have no tale to tell but tipsiness and rapture.”"
+"“Listen; there's a hell of a good universe next door: let's go.” “We can't help being thirsty, moving toward the voice of water.”"
+"“How will you know the difficulties of being human, if you are always flying off to blue perfection? Where will you plant your grief seeds? Workers need ground to scrape and hoe, not the sky of unspecified desire.”"
+"""If you're too busy looking at your past, or even anxious about the future life, you will not see him. And if you forget Him, life is not worth ... you live ... """
+"“You were born with potential.
+You were born with goodness and trust. You were born with ideals and dreams. You were born with greatness.
+ You were born with wings.
+You are not meant for crawling, so don't. You have wings.
+Learn to use them and fly.”"
+“Whoever finds love beneath hurt and grief disappears into emptiness with a thousand new disguises.”
+“Respond to every call that excites your spirit.”
+" “I want to be where your bare foot walks, because maybe before you step, you'll look at the ground. I want that blessing.”"
+"“My place is the Placeless, my trace is the Traceless;
+'Tis neither body nor soul, for I belong to the soul of the Beloved. 
+I have put duality away, I have seen that the two worlds are one; 
+One I seek, One I know, One I see, One I call. ”"
+“Flow down and down in always widening rings of being.”
+"“O my choice beauty 
+You've gone 
+But your love remains in my heart 
+Your image in my eye
+O guide on my winding road
+I keep turning round and round in the hopes of 
+Finding you.”"
+"“The same wind that uproots trees
+makes the grass shine.
+The lordly wind loves the weakness
+and the lowness of grasses.
+Never brag of being strong.
+The axe doesn't worry how thick the branches are. It cuts them to pieces. But not the leaves.
+It leaves the leaves alone.”"
+“Because I cannot sleep i make music in the night.”
+“Moonlight floods the whole sky from horizon to horizon; How much it can fill your room depends on its windows.”
+“The Prophets accept all agony and trust it For the water has never feared the fire.”
+"“Thankfulness brings you to the place where the Beloved lives.”
+“You're water. We're the millstone.
+You're wind. We're dust blown up into shapes.
+You're spirit. We're the opening and closing of our hands. 
+You're the clarity. We're the language that tries to say it. 
+You're joy. We're all the different kinds of laughing.”"
+"“Stars burn clear all night till dawn.
+Do that yourself, and a spring will rise in the dark with water your deepest thirst is for.”"
+"“This that is tormented and very tired, tortured with restraints like a madman, this heart.”"
+"“I searched for God among the Christians and on the Cross and therein I found Him not. I went into the ancient temples of idolatry; no trace of Him was there.
+I entered the mountain cave of Hira and then went as far as Qandhar but God I found not.
+With set purpose I fared to the summit of Mount Caucasus and found there only 'anqa's habitation. Then I directed my search to the Kaaba, the resort of old and young; God was not there even. Turning to philosophy I inquired about him from ibn Sina but found Him not within his range.
+I fared then to the scene of the Prophet's experience of a great divine manifestation only a ""two bow- lengths' distance from him"" but God was not there even in that exalted court.
+Finally, I looked into my own heart and there I saw Him; He was nowhere else.”"
+"“Hear this if you can:
+If you want to reach him
+You have to go beyond yourself
+And when you finally arrive at the land of absence Be silent
+Don’t say a thing
+Ecstasy, not words, is the language spoken there.”"
+"“Without you the instruments would die.
+One sits close beside you. Another takes a long kiss. The tambourine begs, Touch my skin so I can be myself. Let me feel you enter each limb bone by bone,
+that what died last night can be whole today.
+Why live some soberer way, and feel you ebbing out? I won't do it.
+Either give me enough wine or leave me alone, now that I know how it is
+to be with you in constant conversation.”"
+"“I am your moon and your moonlight too I am your flower garden and your water too I have come all this way, eager for you Without shoes or shawl
+I want you to laugh
+To kill all your worries To love you
+To nourish you.”"
+"“There are thousands of wines that can take over our minds. 
+Don't think all ecstasies are the same!
+Jesus was lost in his love for God. His donkey was drunk with barley.”"
+" “Keep walking, though there's no place to get to. Don't try to see through the distances. That's not for human beings. Move within, But don't move the way fear makes you move.”"
+“Set your life on fire. Seek those who fan your flames.” 
+“Let the beauty of what you love be what you do.”
+"“Let's get away from all the clever humans
+who put words in our mouth let's only say what our hearts desire.”"
+ “Why am I seeking? I am the same as he. His essence speaks through me. I have been looking for myself.” 
+"""Beyond the rightness or wrongness of things there is a field, I'll meet you there.”"
+“I would love to kiss you. The price of kissing is your life.”
+"“We were green: we ripened and grew golden. 
+The Sea terrified us: we learned how to drown. Squat and earthbound, we unfolded huge wings. 
+We started sober: are love's startled drunkards. You hide me in your cloak of nothingness 
+Reflect my ghost in your glass of being 
+I am nothing, yet appear: transparent dream 
+Where your eternity briefly trembles.”"
+"“Sadness to me is the happiest time,
+When a shining city rises from the ruins of my drunken mind. Those times when I'm silent and still as the earth,
+The thunder of my roar is heard across the universe.”"
+"“Bring the pure wine of love and freedom.
+But sir, a tornado is coming.
+ More wine, we'll teach this storm A thing or two about whirling.”"
+"“You soak up my soul and mingle me. Each drop of my blood cries out to the earth. We are partners, blended as one.”"
+"“Everything you possess of skill, and wealth, and handicraft, wasn't it first merely a thought and a quest?”"
+“We love that s why life is full of so many wonderful gifts.”
+" “The ear participates, and helps arrange marriages;
+the eye has already made love with what it sees.
+The eye knows pleasure, delights in the body's shape:
+the ear hears words that talk about all this.
+When hearing takes place, character areas change;
+but when you see, inner areas change.
+If all you know about fire is what you have heard
+see if the fire will agree to cook you!
+Certain energies come only when you burn.
+If you long for belief, sit down in the fire!
+When the ear receives subtly; it turns into an eye.
+But if words do not reach the ear in the chest, nothing happens.”"
+“Hall of Love has ten thousand swords. Don't be afraid to use one.”
+" “Work on your strong qualities
+and become resplendent like the ruby.
+Practice self-denial and accept difficulty.
+Always see infinite life in letting the self die.
+Your stoniness will decrease; your ruby nature will grow. The signs of self-existence will leave your body,
+and ecstasy will take you over.”"
+“Each moment from all sides rushes to us the call to love. We are running to contemplate its vast green field. Do you want to come with us?”
+"“Love isn't the work of the tender and the gentle; Love is the work of wrestlers.
+The one who becomes a servant of lovers
+is really a fortunate sovereign.
+Don't ask anyone about Love; ask Love about Love. Love is a cloud that scatters pearls.”"
+“Would you become a pilgrim on the road of love? The first condition is that you make yourself humble as dust and ashes.”
+"“Anyone who knows me, should learn to know me again;
+For I am like the Moon,
+you will see me with new face everyday.”"
+"“You think you are alive because you breathe air? Shame on you,
+that you are alive in such a limited way. Don't be without Love,
+so you won't feel dead.
+Die in Love
+and stay alive forever.”"
+"“Gamble everything for love, if you're a true human being.” "
+“Let silence take you to the core of life.”
+"“make your last journey
+from this strange world
+soar for the heights
+where there is no more separation of you and your home God has created
+your wings not to be dormant
+as long as you are alive
+you must try more and more
+to use your wings to show you're alive.”"
+“Darkness may hide the trees and the flowers from the eyes but it cannot hide love from the soul.”
+“The fault is in the one who blames. Spirit sees nothing to criticize.”
+"“In the house of lovers, the music never stops, the walls are made of songs and the floor dances.”"
+“Everyone has been made for some particular work and the desire for that work has been put in every heart.”
+"“This mirror inside me shows.
+I can’t say what, but I can’t not know. I run from body. I run from spirit.
+I do not belong anywhere.”"
+"“You are an ocean in a drop of dew, all the universes in a thin sack of blood. What are these pleasures then, these joys, these worlds that you keep reaching for, hoping they will make you more alive?”"
+" “Be quiet now and wait.
+It may be that the ocean one,
+the one we desire so to move into and become, desires us out here on land a little longer, going our sundry roads to the shore.”"
+"“The minute I heard my first love story I started looking for you, not knowing how blind that was. Lovers don't finally meet somewhere. They're in each other all along.”"
+ “The heart has its own language. The heart knows a hundred thousand ways to speak.”
+"“Where lowland is, that's where water goes. All medicine wants is pain to cure.”"
+"“You think of yourself as a citizen of the universe. You think you belong to this world of dust and matter. Out of this dust to this world of dust and matter. Out of this dust you have created a personal image, and have forgotten about the essence of your true origin.”#"
+" “I was a thorn rushing to be with a rose, vinegar blending with honey... Then I found some dirt to make an ointment that would honor my soul... Love says, “You are right, but don’t claim these changes. Remember, I am wind. You are an ember I ignite.”"
+"“When you have indulged a lust, your wing drops off; you become lame, abandoned by a fantasy. ...People fancy they are enjoying themselves, but they are really tearing out their wings for the sake of an illusion.”"
+"“Body is not veiled from soul, neither soul from body, Yet no man hath ever seen a soul.”"
+“The soul is here for its own joy.”
+"“Sorrow prepares you for joy. It violently sweeps everything out of your house, so that new joy can find space to enter. It shakes the yellow leaves from the bough of your heart, so that fresh, green leaves can grow in their place. It pulls up the rotten roots, so that new roots hidden beneath have room to grow. Whatever sorrow shakes from your heart, far better things will take their place.”"
+"“The garden of the world has no limits, except in your mind.”"
+" “What hurts you, blesses you. Darkness is your candle.”"
+“Lovers find secret places inside this violent world where they make transactions with beauty.”
+"“Bitter your acts, bitter am I, Kindness your deeds, kindness am I, Pleasant and gentle, so you are, Fine honeyed lips and sweet talker.”"
+ “These pains you feel are messengers. Listen to them.”
+"“I am the servant of the Qur'an as long as I have life. I am the dust on the path of Muhammad, the Chosen One.”"
+"“Do you know what you are?
+You are a manuscript oƒ a divine letter. You are a mirror reflecting a noble face. This universe is not outside of you. Look inside yourself; everything that you want,
+you are already that.”"
+"“We gather at night to celebrate being human. 
+Sometimes we call out low to the tambourine. 
+Fish drink the sea, but the sea does not get smaller! 
+We eat the clouds and evening light. 
+We are slaves tasting the royal wine.”"
+"“Someone who does not run toward the allure of love walks a road where nothing lives. But this dove here senses the love hawk floating above, and waits, and will not be driven or scared to safety.”"
+"“You are the drop,and the ocean
+you are kindness,you are anger, you are sweetness,you are poison. Do not make me more disheartened. you are the chamber of the sun, you are the abode of venus,
+you are the garden of all hope. Oh, Beloved, let me enter.”"
+"“A craftsman pulled a reed from the reedbed, cut holes in it, and called it a human being. Since then, it's been wailing a tender agony of parting, never mentioning the skill that gave it life as a flute.”"
+"“O Love, O pure deep Love, be here, be now,
+Be all – worlds dissolve into your stainless endless radiance,
+Frail living leaves burn with your brighter than cold stares – Make me your servant, your breath, your core.”"
+"“Nothing I say can explain to you Divine Love
+Yet all of creation cannot seem to stop talking about it.”"
+“Out beyond ideas of right doing and wrong doing there is a field. I'll meet you there.”
+" “And watch two men washing clothes,
+one makes dry clothes wet. The other makes wet clothes dry. they seem to be thwarting each other, but their work is a perfect harmony.
+Every holy person seems to have a different doctrine and practice, but there's really only one work.”"
+"“For the thirst to possess your love, Is worth my blood a hundred times.”"
+"“Every moment a taste of that beauty in our mouths, another stashed in a pocket. Impossible to say what: no cypress so handsome, no sunlight, a lonely hiddenness. Other pleasure gathers a crowd, starts a fight, lots of noise there. But soul beauty stays quiet..his amazing whereabouts unknown inside my heart.”"
+"“What the sayer of praise is really praising is himself,
+ by saying implicitly, My eyes are clear.""
+Likewise, someone who criticizes is criticizing himself, saying implicitly, ""I can't see very well with my eyes so inflamed.”"
+"“Soul receives from soul that knowledge, therefore not by book nor from tongue. If knowledge of mysteries come after emptiness of mind, that is illumination of heart.”"
+"“This place is a dream. Only a sleeper considers it real. Then death comes like dawn, and you wake up laughing at what you thought was your grief.”"
+"“Look past your thoughts, so you may drink the pure nectar of This Moment.”"
+“Let yourself be silently drawn by the stronger pull of what you really love.”
+"“A wealth you cannot imagine flows through you. Do not consider what strangers say. Be secluded in your secret heart-house, that bowl of silence.”"
+"“Today I'm out wandering, turning my skull
+ into a cup for others to drink wine from.
+In this town somewhere there sits a calm, intelligent man, who doesn't know what he's about to do!”"
+"“And patience flees my heart, And reason flees my mind. Oh, how drunk can I get to be, Without your love's security?”"
+"“God calls himself ""Baseer"" [Observant], so that the knowledge that He is watching you may keep you from sinning.”"
+"“Knowledge that is acquired
+is not like this. Those who have it worry if audiences like it or not.
+It's a bait for popularity. Disputational knowing wants customers. It has no soul...
+The only real customer is God. Chew quietly
+your sweet sugarcane God-Love, and stay playfully childish.”"
+"“The angel is free because of his knowledge, the beast because of his ignorance. Between the two remains the son of man to struggle.”"
+" “Though Destiny a hundred times waylays you,in the end it pitches a tent for you in Heaven. It is God's loving kindness to terrify you,in order to lead you to His Kingdom of safety. ”"
+"“There came one and knocked at the door of the Beloved.
+And a voice answered and said, 'Who is there?'
+The lover replied, 'It is I.'
+'Go hence,' returned the voice;
+'there is no room within for thee and me.'
+Then came the lover a second time and knocked and again the voice demanded, 'Who is there?'
+He answered, 'It is thou.'
+'Enter,' said the voice, 'for I am within.”"
+"“There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes.”"
+"“When the light returns to its source, it takes nothing of what it has illuminated.”"
+"“Dancing is not just getting up painlessly, like a leaf blown on the wind; dancing is when you tear your heart out and rise out of your body to hang suspended between the worlds.”"
+"“If I gaze at my beloved she may feel embarrassed and if I do not,
+ she will feel neglected.
+I can see the stars reflecting in the calm water of her face but if I look away
+I lose my clarity.”"
+“You are my shams.”
+“Move outside the tangle of fear-thinking. Live in silence.”
+" “Some Hindus have an elephant to show.
+No one here has ever seen an elephant.
+They bring it at night to a dark room.
+One by one, we go in the dark and come out saying how we experience the animal.
+One of us happens to touch the trunk.
+A water-pipe kind of creature.
+Another, the ear. A strong, always moving back and forth, fan-animal. Another, the leg.
+I find it still, like a column on a temple. Another touches the curve back.
+A leathery throne. Another, the cleverest, feels the tusk. A rounded sword made of porcelain. He is proud of his description.
+ Each of us touches one place
+and understands the whole in that way.
+The palm and the fingers feeling in the dark
+are how the senses explore the reality of the elephant. If each of us held a candle there,
+and if we went in together, we could see it.”"
+"""God splash heart with blood and tears before making any secrets in there ..."""
+"“Although the road is never ending take a step and keep walking,
+do not look fearfully into the distance. On this path let the heart be your guide for the body is hesitant and full of fear.”"
+"“We may know who we are or we may not. We may be Muslims, Jews or Christians but until our hearts become the mould for every heart we will see only our differences.”"
+“Your magnificence has made me a wonder. Your charm has taught me the way of love.”
+"“True beauty is a ray That springs from the sacred depths of the soul, and illuminates the body, just as life springs from the kernel of a stone and  gives colour and scent to a flower.”"
+"“Listen, O drop, give yourself up without regret, and in exchange gain the Ocean. Listen, O drop, bestow upon yourself this honor, and in the arms of the Sea be secure. Who indeed should be so fortunate? An Ocean wooing a drop! In God's name, in God's name, sell and buy at once! Give a drop, and take this Sea full of pearls.”"
+" “Love asks us to enjoy our life For nothing good can come of death. Who is alive? I ask. Those who are born of love. Seek us in love itself, Seek love in us ourselves. Sometimes I venerate love, Sometimes it venerates me.”"
+"“Drumsound rises on the air, its throb, my heart. A voice inside the beat says, 'I know you're tired, but come. This is the way.”"
+" “There is another language beyond language, another place beyond heaven and hell. Precious gems come from another mine, the heart draws light from another source.”"
+"“Love rests on no foundation. It is an endless ocean, with no beginning or end.”"
+“Observe the wonders as they occur around you. Don't claim them. Feel the artistry moving through and be silent. Don't grieve. Anything you lose comes round in another form.”
+“Lovers don't finally meet somewhere. They're in each other all along.”
+"“God has allowed some magical reversal to occur, so that you see the scorpion pit as an object of desire, and all the beautiful expanse around it as dangerous and swarming with snakes.”"
+“Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground.” “What? Are you still pretending you are separate from the Beloved?”
+“If I can only recount  the story of my life right out of my body flames will grow.”
+“Observe the wonders as they occur around you. Don’t claim them. Feel the artistry moving through and be silent.”
+"“Body of earth, don't talk of earth Tell the story of pure mirrors The Creator has given you this splendor-- Why talk of anything else?”"
+"""If we come to sleep we are His drowsy ones 
+And if we come to wake we are in His hands 
+If we come to weeping we are His cloud full of raindrops 
+And if we come to laughing we are His lightning in that moment#
+If we come to anger and battle it is the reflection of His wrath 
+And if we come to peace and pardon it is the reflection of His love 
+Who are we in this complicated world?"""

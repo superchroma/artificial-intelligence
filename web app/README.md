@@ -1,3 +1,5 @@
+A project that uses Python, NLP and Flask
+
 Create a quoting machine web application that uses natural language sentiment to tailor the right quote for the user.
 Steps:
 
